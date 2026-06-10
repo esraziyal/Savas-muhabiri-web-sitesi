@@ -1,6 +1,6 @@
 # Savaş Muhabiri Haber Platformu
 ⚡ Savaş bölgelerinden haberler, röportajlar ve özel içeriklerin yayınlanması için geliştirilmiş modern haber platformu. 
-# Tüm röportajlar bu site için gerçek kişilerle yapılmıştır.
+## Tüm röportajlar bu site için gerçek kişilerle yapılmıştır.
 
 Bu proje, bir savaş muhabirinin saha raporlarını, röportajlarını, haberlerini ve fotoğraflarını okuyucularla paylaşabilmesi amacıyla geliştirilmiş modern bir web platformudur. Platform, güncel içeriklerin düzenli bir şekilde yayınlanmasını ve ziyaretçilerin haberlere kolayca erişebilmesini sağlar.
 
@@ -35,9 +35,7 @@ npm install
 npm run dev
 ```
 
-## Katkı Sağlama
 
-Projeye katkıda bulunmak için fork oluşturabilir, geliştirmelerinizi yaparak pull request gönderebilirsiniz.
 
 ## Geliştirici
 
