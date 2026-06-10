@@ -1,5 +1,5 @@
 # Savaş Muhabiri Haber Platformu
-⚡ Savaş bölgelerinden haberler, röportajlar ve özel içeriklerin yayınlanması için geliştirilmiş modern haber platformu.
+⚡ Savaş bölgelerinden haberler, röportajlar ve özel içeriklerin yayınlanması için geliştirilmiş modern haber platformu. #(Tüm röportajlar bu site için gerçek kişilerle yapılmıştır.)
 
 Bu proje, bir savaş muhabirinin saha raporlarını, röportajlarını, haberlerini ve fotoğraflarını okuyucularla paylaşabilmesi amacıyla geliştirilmiş modern bir web platformudur. Platform, güncel içeriklerin düzenli bir şekilde yayınlanmasını ve ziyaretçilerin haberlere kolayca erişebilmesini sağlar.
 
